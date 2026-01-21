@@ -25,15 +25,15 @@
 ---
 
 
-🌐 TechLogo Nexus — Company Profile Website
+<h3>🌐 TechLogo Nexus — Company Profile Website</h3>
 
 TechLogo Nexus is a modern **company profile website** designed to represent an IT & Digital Solutions company.  
-This project showcases a clean UI, responsive layout, and interactive features using **HTML, CSS, and Vanilla JavaScript**.
+This project showcases a clean UI, responsive layout, and interactive features using **HTML, CSS, and JavaScript**.
 
 ---
 
 
-🚀 Features
+<h3>🚀 Features</h3>
 
 -  Responsive Navigation Bar (Desktop & Mobile)
 -  Hamburger Menu for Mobile View
@@ -48,12 +48,19 @@ This project showcases a clean UI, responsive layout, and interactive features u
 ---
 
 
-🛠️ Tools
+<h3>🛠️ Tools</h3>
 
 - HTML              		—> 	Page structure & content
 - CSS               		—> 	Styling, layout, responsiveness
 - JavaScript        		—> 	Interactivity & logic
 - Local Storage API 		—> 	Save user name
 - Responsive Design 		—> 	Mobile-first approach
+
+---
+
+<h3>📄 License</h3>
+
+This project is for **educational and portfolio purposes**.  
+Free to use and modify for learning.
 
 ---
