@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="image/logo.jpg" width="120" alt="TechLogo Nexus Logo" style="border-radius:50%;">
+  <img 
+    src="image/logo.jpg" 
+    width="120" 
+    alt="TechLogo Nexus Logo"
+    style="border-radius:50%;"
+  >
 </p>
+
 
 <h1 align="center">TechLogo Nexus</h1>
 
