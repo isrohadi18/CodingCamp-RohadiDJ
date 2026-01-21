@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/logo.jpg" width="120" alt="TechLogo Nexus Logo" />
+  <img src="image/logo.jpg" width="120" alt="TechLogo Nexus Logo" style="border-radius:50%;">
 </p>
 
 <h1 align="center">TechLogo Nexus</h1>
@@ -51,25 +51,3 @@ This project showcases a clean UI, responsive layout, and interactive features u
 - Responsive Design 		—> 	Mobile-first approach
 
 ---
-
-
-📂 Project Structure
-
-TechLogo-Nexus/
-	│
-	├── index.html
-	│
-	├── css/
-	│ └── style.css
-	│
-	├── js/
-	│ └── script.js
-	│
-	├── image/
-	│ ├── logo.jpg
-	│ └── banner/
-	│ ├── banner 1.jpg
-	│ ├── banner 2.jpg
-	│ └── banner 3.jpg
-	│
-	└── README.md
