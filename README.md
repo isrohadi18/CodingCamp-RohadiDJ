@@ -1,9 +1,11 @@
 <div align="center">
-  <h2 style="padding: 0px 0px 0px 0px"><b>TECHLOGO NEXUS</b></h2>
 
-  <img src="image/logo.jpg" width="120" alt="TechLogo Nexus Logo" style="padding: 0px 0px 10px 0px"/>
+## **TECHLOGO NEXUS**
+
+  <img src="image/logo.jpg" width="120" alt="TechLogo Nexus Logo"/>
 
 **IT & Digital Solutions Company Profile Website**
+
 Clean • Modern • Responsive • Interactive
 
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
@@ -15,17 +17,11 @@ Clean • Modern • Responsive • Interactive
 
 ---
 
-<div style="padding: 0px 20px 0px 20px" align="justify">
-
 TechLogo Nexus is a modern **company profile website** designed to represent an IT & Digital Solutions company. This project showcases a clean UI, responsive layout, and interactive features using **HTML, CSS, and JavaScript**.
-
-</div>
 
 ---
 
 > #### Features
-
-<div style="padding: 0px 0px 0px 20px">
 
 - Responsive Navigation Bar (Desktop & Mobile)
 - Hamburger Menu for Mobile View
@@ -36,26 +32,12 @@ TechLogo Nexus is a modern **company profile website** designed to represent an 
 - Interactive Contact Form with Validation
 - Modern UI with Dark Theme
 - Clean Code Structure (HTML / CSS / JS separated)
-</div>
-
----
-
-> #### Tools
-
-<div style="padding: 0px 0px 0px 20px">
-
-- HTML —> Page structure & content
-- CSS —> Styling, layout, responsiveness
-- JavaScript —> Interactivity & logic
-- Local Storage API —> Save user name
-- Responsive Design —> Mobile-first approach
-</div>
 
 ---
 
 > #### 📄 License
 
-<div style="padding: 0px 0px 0px 20px">
-
 This project is for **_educational and portfolio purposes_**.  
 **Free to use and modify for learning.**
+
+[\***\*`PREVIEW`\*\***](https://isrohadi18.github.io/CodingCamp-RohadiDJ/)
