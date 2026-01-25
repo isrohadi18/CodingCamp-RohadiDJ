@@ -3,9 +3,9 @@
 ## **TECHLOGO NEXUS**
 
   <img src="image/logo.jpg" width="120" alt="TechLogo Nexus Logo"/>
-
-**IT & Digital Solutions Company Profile Website**
-_Clean • Modern • Responsive • Interactive_
+  &nbsp;
+    <p><b>IT & Digital Solutions Company Profile Website</b> <br>
+    Clean • Modern • Responsive • Interactive</p>
 
   <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white"/>
